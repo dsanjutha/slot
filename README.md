@@ -34,21 +34,21 @@ Execute the program using runserver command.
     <img src="/static/logo.png" height="100" width="540">
   </center>
   <br>
-  <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+  <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="pink">
     <caption><b>SLOT TIME TABLE - SANJUTHA D (25015927)</b></caption>
     <tr align="center">
-      <th bgcolor="yellow">Day/Time</th>
-      <th bgcolor="yellow">Monday</th>
-      <th bgcolor="yellow">Tuesday</th>
-      <th bgcolor="yellow">Wednesday</th>
-      <th bgcolor="yellow">Thursday</th>
-      <th bgcolor="yellow">Friday</th>
-      <th bgcolor="yellow">Saturday</th>
+      <th bgcolor="blue">Day/Time</th>
+      <th bgcolor="blue">Monday</th>
+      <th bgcolor="blue">Tuesday</th>
+      <th bgcolor="blue">Wednesday</th>
+      <th bgcolor="blue">Thursday</th>
+      <th bgcolor="blue">Friday</th>
+      <th bgcolor="blue">Saturday</th>
 
     </tr>
 
     <tr align="center">
-      <th bgcolor="yellow">8-10</th>
+      <th bgcolor="blue">8-10</th>
       <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
       <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
       <td>COMMUNICATIVE ENGLISH</td>
@@ -58,7 +58,7 @@ Execute the program using runserver command.
     </tr>
 
     <tr align="center">
-      <th bgcolor="yellow">10-12</th>
+      <th bgcolor="blue">10-12</th>
       <td>PYTHON PROGRAMMING</td>
       <td>COMMUNICATIVE ENGLISH</td>
       <td>COMMUNICATIVE ENGLISH</td>
@@ -66,11 +66,11 @@ Execute the program using runserver command.
       <td>COMMUNICATIVE ENGLISH</td>
       <td>COMMUNICATIVE ENGLISH</td>
     </tr>
-    <th bgcolor="yellow">12-1</th>
+    <th bgcolor="blue">12-1</th>
     <td colspan="6" align="center">L U N C H</td>
     </tr>
     <tr align="center">
-    <th bgcolor="yellow">1-3</th>
+    <th bgcolor="blue">1-3</th>
     <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
     <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
     <td>MENTOR HOUR</td>
@@ -80,7 +80,7 @@ Execute the program using runserver command.
     </tr>
 
     <tr align="center">
-    <th bgcolor="yellow">3-5</th>
+    <th bgcolor="blue">3-5</th>
     <td>FREE SLOT</td>
     <td>FREE SLOT</td>
     <td>PYTHON PROGRAMMING</td>
